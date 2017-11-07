@@ -4,13 +4,6 @@ body{
     background-color: #c3d7df;/* #f5f5f5;*/
 }
 
-h2 {
-    font-size: 250%;
-    font-weight: 700;
-    text-align: center;
-    padding-top: 2%;
-    color: #F5f5f5;
-}
 p {
     font-size: 160%;
     line-height: 150%;
@@ -82,63 +75,7 @@ nav ul li a:hover {
 
 /*header stuff ends*/
 
-.inner-wrapper {
-    float: left;
-    width: 100%;
-    background-color: #c3d7df;
-    
-}
 
-.inner-wrapper-2 {
-    float: left;
-    width: 100%;
-    background-color: #C3D7DF;
-    
-    /*margin-bottom: 50%;*/
-}
-
-
-.dun_dun{
-    padding-left: 0%;
-}
-
-.btn-block{
-    background-color: #6991AC;
-    border-radius: 12px;
-}
-h3{
-    padding-top: 5%;
-}
-
-.logins{
-    background-color: #f1AA90;
-    float: left;
-    width: 50%;
-    align-content: center;
-    padding-bottom: 20px;
-}
-.inpt, .txt {
-    width: 100%;
-    align-content: center;
-    margin-left: 80%;
-}
-aside{
-    float: right;
-    margin: 0 auto;
-    width: 50%;
-    height: auto;
-}
-.btn-div{
-    margin-left: 25%;
-    width: 50%;
-    align-content: center;
-}
-#guest{
-     background-color: #A2B1C1;
-}
-.guest{
-    background-color:brown;
-}
 h1{
     color: #f5f5f5;
     margin-left: 0%;
@@ -147,23 +84,9 @@ h1{
     font-size: 60;
     font-weight: 900;
 }
-/*Button stuff*/
-.butt1{
-    border-radius: 5px;
-    background-color: #6991AC;
-    border: 5px solid #5e90b2;
-}
-.inpu{
-    border-radius: 5px;
-    background-color: #6991AC;
-    border: 5px solid #5e90b2;
-    margin-left: 25%;
-    width: 50%
-}
-
-/*footer stuff*/
+/*footer here*/
 footer{
-    margin-top: 670px;
+    margin-top: 2%;
 }
 footer.second {
     border-top: 1px solid #aadcd2;
@@ -179,4 +102,24 @@ address{
     color: #f5f5f5;
     text-align: center;
     padding: 0px 0px 9px 2%;
+}
+/*footer end*/
+.sent{
+ background-color: #A2b1c1;  
+    padding-top: 25px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 30px;
+}
+h3{
+    margin-left: 23%;
+    margin-bottom: 5%;
+    color: #f5f5f5;
+    font-weight: 700;
+}
+.cntr{
+    border: 2px solid #6991AC;
+    margin-left: 30%;  
+    border-radius: 5px;
+    background-color: #6991AC;
 }
